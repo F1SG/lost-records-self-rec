@@ -1,5 +1,7 @@
 # Self-Rec mod
 
+![Swann filming herself with Self-Rec in Nora's garage](images/self-rec.jpg)
+
 Self-Rec adds a selfie mode to the camcorder in Lost Records: Bloom & Rage (PC/Steam). You need to own a copy of the game on Steam to use this mod.
 
 Unofficial fan mod. Not made, supported or endorsed by DON'T NOD. Install at your own risk.
